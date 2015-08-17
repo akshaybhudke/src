@@ -1,0 +1,138 @@
+A Materialized view cannot include tables and view definitions and other materialized views, Materialized view can increase the query exception performance
+
+GROUP BY "Manufacturer Identification Code" 
+
+select empname from emp where empname like '_ill'
+
+out
+
+#    In the FROM clause of a SELECT statement, In the INTO clause of an INSERTstatement
+
+number, integer, number(6,2)
+
+Cascade Delete
+
+Trigger Type
+ 
+rollback to savepoint, rollback
+
+table related to each other
+
+Trigger-same table same statement - true
+
+#    true about overloading of pgms  -The name of the subprograms must be the same, You can place two overloaded procedures in the same block, The type,order or number of arguments must be different
+
+#    The name of the subprograms must be the same, You can place two overloaded procedures in the same block, The type,order or number of arguments must be different
+
+#     drop trigger triggername
+
+BEGIN and END 
+
+Multilevel collection true
+
+fire-  A database is shutdown or started up, An user executes a CREATE or ALTER table statement, An user logs on or logs off the database
+
+COUNT() returns only count of unique rows from a particular table but COUNT(*) returns count of all rows
+
+Functions must return a value
+
+#       Nested table -True
+
+execute insert into procedure_name(123,'chennai','sunny') 
+
+#		PL/SQL processes all the handlers that are applicable before leaving the block-  False
+
+#		Which part is not included for anonymous block in plsql - header
+
+company 100 	- Exception has not been raised properly
+
+Rajkumar cust table, order table -Cascade Delete
+
+#		declare n1 number:=10 n2 number
+
+name.extend; name(1):='satish'
+
+If this question comes in Multiple response then this is the correct answer but if it comes in single response then the answer is sqlerrm only
+
+4000 bytes
+
+end procedure_name;, end;
+
+DROP TRIGGER business_hour; 
+
+Mandatory in subpgm- execution
+
+8
+
+#		ename1.Extend;ename1(1) := 'Ram Kumar'
+
+copy collection -true
+
+rowlevel/ stmt level trigger- trigger type
+
+referential integrity
+
+collections passed in select/view- true
+
+#		Processing in the current block stops, Control is transferred to the exception section of the current block, Control is passed to the enclosing block after the exception is handled
+
+varchar- both characters and numericals 
+
+c_rec c1%ROWTYPE; 
+
+application event fired- Application Triggers 
+
+executed in pl/sql- all the above( DDL DML SELECT)
+
+SELECT TRIM('W' from 'WONDERFUL') from dual 
+
+#		End;, End raise_salary;
+
+500
+
+The results are sorted by price and then by product name
+
+before logon-  Invalid Trigger
+
+#		myExp Exception;
+
+#		OPEN emp_cursor(10,'analyst')
+
+a null b bull - false
+
+#		A variable is global to all the sub blocks of the block where it is declared, Variables can have same name as long as they are in different blocks, A variable is local to the block where it is declared
+
+query flashback
+
+ The value of DISCOUNT_RATE is set to 0.10 when the package is invoked for the first time in a session.
+ 
+  First=1,Last=1,Count=1 
+  
+#		Exceptions are handled in - Exception
+
+SELECT statement to display maximum revenue grouped project wise- The sql statement should contain a Grouping function and GROUP BY clause -
+
+dinu- false
+
+#		a value is 0.10 when package is invoked 1st time in session
+
+equi join
+
+#		One that consists of two or more tables that is in relation with each other
+
+#		One that consists of two or more tables that is in relation with each other
+
+anonymous block executable, declaration, exception
+
+ group by empno
+ 
+collection copy - true
+
+variable v_width  is not intialised
+  
+  
+
+
+
+
+
